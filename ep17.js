@@ -1,4 +1,5 @@
-// callback function
+// callback function คลิปที่ 2 
+//https://www.youtube.com/watch?v=sVdY_cqPHxs
 
 // function GFGexample(fact, callback){ 
 // var myFact = "GeeksforGeeks Is Awesome, " + fact; 

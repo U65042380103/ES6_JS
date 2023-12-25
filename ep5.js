@@ -1,4 +1,4 @@
-// Spread Operator
+// Spread Operator แตกข้อมูลจากที่เป็นชุดสู่ข้อมูลเดี่ยวๆ
 let score1 = [1,2,3]
 let score2 = [4,5,6, ...score1]
 let score3 = [score1,4,5,6]

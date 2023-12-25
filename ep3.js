@@ -3,7 +3,6 @@ const customer = {
     name : "Mr.Pornthep Chanpheng",
     age : 50,
     address : "Uttaradit",
-    teacher,
     //สามารถเขียนบรรทัดเดียวได้
     getCustomer(){
         console.log( this.name)

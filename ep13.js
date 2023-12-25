@@ -10,6 +10,6 @@ function isOdd(num){
 //find()
 console.log(data.find(isOdd));
 console.log(data.find((num) => num % 2 == 0));
-// findIndex()
+// findIndex() หาแล้วทราบลำดับ
 console.log(data.findIndex(isOdd)); // method
 console.log(data.findIndex((num) => num % 2 == 0)); // arrow function
